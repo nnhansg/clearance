@@ -15,6 +15,10 @@ complete changelog, see the git history for each version via the version links.
   requirements as rails pulls in every framework. Instead, depend on just the
   frameworks relevant to Clearance.
 
+### Removed
+- Removed support for Ruby versions older than 2.2
+- Removed support for Rails versions older than 4.2
+
 [Unreleased]: https://github.com/thoughtbot/clearance/compare/v1.16.1...HEAD
 
 ## [1.16.1] - November 2, 2017

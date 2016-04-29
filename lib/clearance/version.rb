@@ -1,3 +1,3 @@
 module Clearance
-  VERSION = "1.16.1".freeze
+  VERSION = "2.0.0.alpha".freeze
 end
